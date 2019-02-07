@@ -1,3 +1,2 @@
 # GitPractice
-Practice for Git committing
-Omelette du fromage
+Omelette du fromage - Dexter
